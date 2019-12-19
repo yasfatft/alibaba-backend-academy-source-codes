@@ -1,0 +1,11 @@
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console.deps.json
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.json
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console.runtimeconfig.dev.json
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console.dll
+/home/yasfatft/console/bin/Debug/netcoreapp3.1/console.pdb
+/home/yasfatft/console/obj/Debug/netcoreapp3.1/console.csprojAssemblyReference.cache
+/home/yasfatft/console/obj/Debug/netcoreapp3.1/console.AssemblyInfoInputs.cache
+/home/yasfatft/console/obj/Debug/netcoreapp3.1/console.AssemblyInfo.cs
+/home/yasfatft/console/obj/Debug/netcoreapp3.1/console.dll
+/home/yasfatft/console/obj/Debug/netcoreapp3.1/console.pdb
