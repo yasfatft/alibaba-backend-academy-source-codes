@@ -21,7 +21,7 @@ namespace mvc
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                    //github Test
+                   
                 });
     }
 }
